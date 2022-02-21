@@ -2,6 +2,11 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-coltdi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/coltdi)](https://www.linkedin.com/in/coltdi)
 
+## Programming Languages
+
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/nodejs.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/php.svg' width='40'/>
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='30'/>
+
 <!--
 **coltondick/coltondick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
