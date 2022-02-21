@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, Colton here! 👋
+
+[![Linkedin Badge](https://img.shields.io/badge/-coltdi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/coltdi)](https://www.linkedin.com/in/coltdi)
 
 <!--
 **coltondick/coltondick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
