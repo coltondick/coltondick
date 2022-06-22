@@ -1,28 +1,3 @@
-Style badges:
-GitHub
-Stats Card
-
-Show:
-Stars
-Commits
-PRs
-Issues
-Contributions
-Private Commits
-Commit Streak
-Commits Graph
-Top Languages
-Top Repositories
-Follower Count
-Twitter
-
-Please add your Twitter profile in the socials section.
-Follower Count
-Twitch
-
-Please add your Twitch profile in the socials section.
-Streaming Status
-
 Hi 👋 My name is Colton Dick
 ============================
 
