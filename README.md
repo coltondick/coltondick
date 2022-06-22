@@ -1,5 +1,8 @@
 Hi 👋 My name is Colton Dick
-============================Senior DevOps Engineer----------------------* 🌍  I'm based in Kamloops, BC
+============================
+Senior DevOps Engineer
+----------------------
+* 🌍  I'm based in Kamloops, BC
 
 ### Skills
 
