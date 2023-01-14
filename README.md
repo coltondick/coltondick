@@ -4,7 +4,9 @@ Hi 👋 My name is Colton Dick
 Senior DevOps Engineer
 ----------------------
 
-* 🌍  I'm based in Kamloops, BC
+I am a highly skilled Senior DevOps Engineer with years of experience in the information technology industry. My expertise in developing, implementing, and maintaining cloud-based systems has made me a valuable asset to my clients and colleagues. Throughout my career, I have consistently delivered successful projects and solutions for a wide range of clients. My track record of success is a testament to my dedication, expertise, and problem-solving skills. If you are in need of a reliable and experienced DevOps Engineer, please don't hesitate to contact me through the provided email address. I look forward to the opportunity to work with you and help your business succeed.
+
+* 🌍 Kamloops, BC
 
 ### Skills
 
